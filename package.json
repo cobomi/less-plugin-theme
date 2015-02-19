@@ -1,0 +1,14 @@
+{
+    "name": "less-plugin-theme",
+    "version": "0.1.0",
+    "description": "keep only theme rules from less files",
+    "repository": "https://github.com/cobomi/less-plugin-theme.git",
+    "main": "lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cobomi/less-plugin-theme"
+    },
+    "keywords": [ "less", "plugin", "filter", "theme" ],
+    "author": "Bobby Mihalca",
+    "license": "MIT"
+}
