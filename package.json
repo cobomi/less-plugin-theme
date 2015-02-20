@@ -1,6 +1,6 @@
 {
     "name": "less-plugin-theme",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "keep only theme rules from less files",
     "repository": "https://github.com/cobomi/less-plugin-theme.git",
     "main": "lib/index.js",
